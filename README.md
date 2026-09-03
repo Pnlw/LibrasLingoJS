@@ -1,3 +1,3 @@
 # LibrasLingoJS
-Libras lingo JAVA SCRIPT Vanilla versao 1
-(Com quiz funcional e sistema de sorteamento)
+
+Protótipo básico funcional (feito no Ensino Médio) em JavaScript, html e css de um site de aprendizagem de libras.
